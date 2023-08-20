@@ -1,2 +1,2 @@
-https://github.com/arham12k/restaurent-website.git
+https://arham12k.github.io/restaurent-website/
 
